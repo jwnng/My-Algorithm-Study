@@ -1,4 +1,8 @@
-n = int(input())
+import sys
+
+# 현재 폴더에 있는 input.txt를 표준 입력(stdin)으로 연결합니다.
+sys.stdin = open("input.txt", "r")
+n = int(sys.stdin.readline())
 
 MAX_R = 1000
 
