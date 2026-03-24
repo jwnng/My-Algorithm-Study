@@ -13,15 +13,15 @@ for _ in range(m):
 visited = [False] * (n+1)
 count = 0
 
-def bfs(now):
+def dfs(now):
     global count
     visited[now] = True
 
     for next_com in adj[now]:
         if not visited[next_com]:
             count += 1
-            bfs(next_com)
+            dfs(next_com)
 
-bfs(1)
+dfs(1)
 print(count)
         
