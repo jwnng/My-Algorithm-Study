@@ -2,7 +2,7 @@
 git add .
 
 # 3. 버전 기록을 남깁니다.
-git commit -m "Solve: 백준 1697 숨바꼭질 (Bfs)"
+git commit -m "Solve: 백준 1012 유기농배추 (Bfs)"
 
 # 4. 깃허브 온라인 저장소로 보냅니다.
 git push origin main
