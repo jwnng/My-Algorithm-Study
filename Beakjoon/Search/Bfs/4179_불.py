@@ -42,7 +42,7 @@ while jh:
         if nr < 0 or nr >= r or nc < 0 or nc >= c:
             print(jh_dist[cur_r][cur_c] + 1)
             exit()
-
+        
 
         if grid[nr][nc] == '.' and jh_dist[nr][nc] == -1:
             if fire_dist[nr][nc] == -1 or jh_dist[cur_r][cur_c] + 1 < fire_dist[nr][nc]:
