@@ -22,7 +22,7 @@ def bfs(r,c,h,visited):
                         queue.append((nr,nc))
                     
 result = 0             
-for h in range(0,10):
+for h in range(0,101):
     visited = [[False] * n for _ in range(n)]
     cnt = 0
 
