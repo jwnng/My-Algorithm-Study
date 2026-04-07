@@ -48,6 +48,7 @@
 | 26.04.07 | 프로그레머스 | Kit_Hash | 완주하지못한선수 | 해시 | Success |
 | 26.04.07 | 프로그레머스 | Kit_Hash | 폰켓몬 | 해시 | Success |
 | 26.04.07 | 프로그레머스 | Kit_DFS/BFS | 타겟넘버 | DFS | Success |
+| 26.04.07 | 프로그레머스 | Kit_DFS/BFS | 게임맵최단거리 | BFS | Success |
 ---z
 
 ## 🛠 사용 기술 및 환경
