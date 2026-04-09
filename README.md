@@ -49,6 +49,8 @@
 | 26.04.07 | 프로그레머스 | Kit_Hash | 폰켓몬 | 해시 | Success |
 | 26.04.07 | 프로그레머스 | Kit_DFS/BFS | 타겟넘버 | DFS | Success |
 | 26.04.07 | 프로그레머스 | Kit_DFS/BFS | 게임맵최단거리 | BFS | Success |
+| 26.04.08 | 프로그레머스 | Kit_DFS/BFS | 네트워크 | BFS | 진행 중 |
+| 26.04.09 | 프로그레머스 | Kit_Hash | 전화번호목록 | 해시 | Success |
 ---z
 
 ## 🛠 사용 기술 및 환경
