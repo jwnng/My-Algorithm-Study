@@ -1,8 +1,9 @@
-3 4
-ohhenrie
-charlie
-baesangwook
-obama
-baesangwook
-ohhenrie
-clinton
+2
+3
+hat headgear
+sunglasses eyewear
+turban headgear
+3
+eyepatch eyewear
+hat headgear
+jeans pants
