@@ -1,16 +1,17 @@
 import sys
+sys.stdin = open("input.txt","r")
+k = int(sys.stdin.readline())
+s = []
 
-# sys.stdin = open("input.txt", "r")
-K = int(sys.stdin.readline())
-list = []
+for _ in range(k):
+    n = int(sys.stdin.readline())   
 
-for _ in range(K):
-    n = int(input())
-    
-    if n != 0:
-        list.append(n)    
+    if n == 0:
+        s.pop()
     else:
-            list.pop()
-        
-        
-sys.stdout.write(str(sum(list)))
+        s.append(n)
+
+if s:
+    print(sum(s))
+else:
+    print(0)

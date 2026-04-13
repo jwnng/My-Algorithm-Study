@@ -1,9 +1,1 @@
-2
-3
-hat headgear
-sunglasses eyewear
-turban headgear
-3
-eyepatch eyewear
-hat headgear
-jeans pants
+6
