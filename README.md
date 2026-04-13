@@ -61,6 +61,8 @@
 | 26.04.12 | 프로그래머스 | Kit_Stack/Queue | 기능개발 | 스택/큐 | Success |
 | 26.04.12 | 프로그래머스 | Kit_Stack/Queue | 올바른괄호 | 스택/큐 | Success |
 | 26.04.12 | 프로그래머스 | Kit_Stack/Queue | 프로세스 | 스택/큐 | Success |
+| 26.04.12 | 프로그래머스 | Kit_Stack/Queue | 다리를지나는트럭 | 스택/큐 | Success |
+
 ---z
 
 ## 🛠 사용 기술 및 환경
