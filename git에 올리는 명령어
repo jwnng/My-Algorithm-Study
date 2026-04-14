@@ -2,7 +2,7 @@
 git add .
 
 # 3. 버전 기록을 남깁니다.
-git commit -m "Solve: 백준 1927 최소힙 (힙)"
+git commit -m "Solve: 백준 11279 최대힙 (힙)"
 
 # 4. 깃허브 온라인 저장소로 보냅니다.
 git push origin main
