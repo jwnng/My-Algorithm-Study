@@ -1,3 +1,12 @@
+"""
+문제: 기능개발 (구현)
+날짜: 2026-04-16
+난이도: 골드5
+풀이 포인트:
+1. 알고리즘이나 자료구조를 어떤걸 사용할지 결정
+2. 로봇이 실제로 움직이는 것 처럼 시뮬레이션 코드 작성
+"""
+
 import sys
 from collections import deque
 sys.stdin = open("input.txt", "r")
