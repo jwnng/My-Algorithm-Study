@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt", "r")
+# sys.stdin = open("input.txt", "r")
 vps = sys.stdin.readline().strip()
 s = []
 p = 0 # 막대 갯수
