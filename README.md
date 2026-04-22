@@ -73,7 +73,7 @@
 | 26.04.16 | 백준 | 2108 | 통계학 | 구현 | Success |
 | 26.04.17 | 프로그래머스 | Level_Tests/Level_1 | 신고결과받기 | 구현 | Success |
 | 26.04.18 | 프로그래머스 | Level_Tests/Level_2 | 주차요금계산 | 구현 | Success |
-| 26.04.18 | 프로그래머스 | Kit_DFS/BFS | 네트워크 | DFS/BFS | Success |
+| 26.04.22 | 프로그래머스 | Kit_DFS/BFS | 네트워크 | DFS/BFS | Success |
 
 | 26.04.22 | 백준 | 13460 | 구슬탈출2 | BFS | 진행 중 |
 | 26.04.22 | 백준 | 2579 | 계단오르기 | DP | 진행 중 |
