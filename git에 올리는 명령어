@@ -2,7 +2,7 @@
 git add .
 
 # 3. 버전 기록을 남깁니다.
-git commit -m "Solve: 프로그래머스 Kit_DFS/BFS 네트워크 (DFS/BFS)" 
+git commit -m "Solve: 프로그래머스 Level_Tests/Level_1 신규아이디추천 (문자열)" 
 
 # 4. 깃허브 온라인 저장소로 보냅니다.
 git push origin main
