@@ -82,6 +82,8 @@
 | 26.05.02 | 프로그래머스 | Level_Tests/Level_1 | 소수찾기 | itertools | Success |
 | 26.05.02 | 프로그래머스 | Level_Tests/Level_2 | 소수찾기 | itertools | Success |
 | 26.05.03 | 프로그래머스 | Level_Tests/Level_0 | 홀짝구분하기 | 조건문 | Success |
+| 26.05.03 | 프로그래머스 | Level_Tests/Level_1 | 바탕화면정리 | 이차원배열 | Success |
+| 26.05.03 | 프로그래머스 | Level_Tests/Level_1 | 성경유형검사 | 딕셔너리 | Success |
 ---z
 
 ## 🛠 사용 기술 및 환경
