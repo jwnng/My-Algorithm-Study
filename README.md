@@ -81,6 +81,7 @@
 | 26.04.27 | 프로그래머스 | Level_Tests/Level_1 | 신규아이디추천 | 문자열 | Success |
 | 26.05.02 | 프로그래머스 | Level_Tests/Level_1 | 소수찾기 | itertools | Success |
 | 26.05.02 | 프로그래머스 | Level_Tests/Level_2 | 소수찾기 | itertools | Success |
+| 26.05.03 | 프로그래머스 | Level_Tests/Level_0 | 홀짝구분하기 | 조건문 | Success |
 ---z
 
 ## 🛠 사용 기술 및 환경
