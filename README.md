@@ -90,6 +90,7 @@
 | 26.05.08 | 프로그래머스 | Level_Tests/Level_2 | 압축 | 슬라이싱/구현 | Success |
 | 26.05.09 | 프로그래머스 | Level_Tests/Level_2 | [1차]뉴스클러스터링 | 구현 | Success |
 | 26.05.10 | 프로그래머스 | Level_Tests/Level_2 | 튜플 | 문자열 | Success |
+| 26.05.12 | 프로그래머스 | Level_Tests/Level_2 | [1차]캐시 | 큐/덱 | Success |
 
 ---z
 
