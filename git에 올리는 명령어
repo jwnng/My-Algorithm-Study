@@ -2,7 +2,7 @@
 git add .
 
 # 3. 버전 기록을 남깁니다.
-git commit -m "Solve: 프로그래머스 Level_Tests/Level_1 문자열 내 p와 y의 개수
+git commit -m "Solve: 프로그래머스 Level_Tests/Level_1 문자열 내림차순으로 배치하기
  (문자열)" 
 
 # 4. 깃허브 온라인 저장소로 보냅니다.

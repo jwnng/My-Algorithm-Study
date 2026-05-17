@@ -97,8 +97,8 @@
 | 26.05.15 | 프로그래머스 | Level_Tests/Level_1 | 자연수뒤집어배열로만들기 | 문자열 | Success |
 | 26.05.15 | 프로그래머스 | Level_Tests/Level_1 | 숫자문자열과영단어 | 문자열 | Success |
 | 26.05.15 | 프로그래머스 | Level_Tests/Level_1 | 문자열을정수로바꾸기 | 문자열 | Success |
-| 26.05.15 | 프로그래머스 | Level_Tests/Level_1 | 문자열 내 p와 y의 개수
- | 문자열 | Success |
+| 26.05.15 | 프로그래머스 | Level_Tests/Level_1 | 문자열 내 p와 y의 개수 | 문자열 | Success |
+| 26.05.17 | 프로그래머스 | Level_Tests/Level_1 | 문자열 내림차순으로 배치하기 | 문자열 | Success |
 ---z
 ## 🛠 사용 기술 및 환경
 - **Language:** Python 3.14
